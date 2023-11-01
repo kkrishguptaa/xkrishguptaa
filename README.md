@@ -1,7 +1,7 @@
 ![](https://github.com/xkrishguptaa/krishstwt/assets/135469703/1279e77d-a863-4774-83d6-427820d9f5ff)
 
 
-Heya 👋, I am **Krish** an enthusiastic and ambitious full-stack developer. I specialize in Web Development, JavaScript, and Git. I love to network, join new communities, and add value ✨
+Heya 👋, I am **Krish**
 
 ### 🧑🏻 Know more about me!
   
