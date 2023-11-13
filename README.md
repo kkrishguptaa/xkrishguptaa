@@ -1,4 +1,4 @@
-![](https://github.com/xkrishguptaa/krishstwt/assets/135469703/1279e77d-a863-4774-83d6-427820d9f5ff)
+![](https://github.com/xkrishguptaa/xkrishguptaa/raw/main/cover.png)
 
 
 Heya 👋, I am **Krish**
