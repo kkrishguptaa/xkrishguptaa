@@ -1,5 +1,4 @@
-![](https://github.com/xkrishguptaa/xkrishguptaa/raw/main/cover.png)
-
+![](https://github.com/xkrishguptaa/xkrishguptaa/assets/135469703/c4633948-63c0-4b9e-b936-d0f4c4c9d39a)
 
 Heya 👋, I am **Krish**
 
