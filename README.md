@@ -5,7 +5,7 @@
 
   <p>
 
-[![Twitch](https://img.shields.io/twitch/status/xkrishguptaa?style=for-the-badge&logo=twitch&logoColor=%23fefefe&labelColor=%237749C1&color=%237749C1)](https://go.xkrish.co/twitch)
+[![Twitch](https://img.shields.io/twitch/status/thetechieowl?style=for-the-badge&logo=twitch&logoColor=%23fefefe&labelColor=%237749C1&color=%237749C1)](https://go.xkrish.co/twitch)
 [![Discord](https://img.shields.io/discord/1117443309082771568?style=for-the-badge&logo=discord&logoColor=%23FEFEFF&labelColor=%237749C1&color=%237749C1)](https://go.xkrish.co/discord)
 
   </p>
