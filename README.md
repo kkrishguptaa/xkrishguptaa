@@ -17,7 +17,7 @@ Krish is a DevOps engineer, with a full-stack development background. He has man
 - Maintainer at EddieHubCommunity Repositories, previously also maintained WebXDAO.
 - On a mission to promote no-code contributions in Open Source Software.
 
-</div>
+<div>
 <details>
   <summary>📈 ― Show GitHub Stats</summary>
   <br />
@@ -53,6 +53,27 @@ Markdown   10 mins         █░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
     
+  </p>
+</details>
+</div>
+
+<div>
+<details>
+  <summary>📊 ― GitHub Interest Stats</summary>
+  <br />
+  <p align="center">
+<img src="https://stats.quine.sh/xkrishguptaa/github?theme=dark" alt="" height="180" /> <img src="https://stats.quine.sh/xkrishguptaa/dependencies?theme=dark" alt="" height="180" />
+<img src="https://stats.quine.sh/xkrishguptaa/topics-over-time?theme=dark" alt="" height="180" /> <img src="https://stats.quine.sh/xkrishguptaa/languages-over-time?theme=dark" alt="" height="180" />
+  </p>
+</details>
+</div>
+
+<div>
+<details>
+  <summary>🎴 ― Cool Cards</summary>
+  <br />
+  <p align="center">
+    <img src="https://api.daily.dev/devcards/v2/ss6WFJc85JAQGKNKiGWSL.png?type=default&r=42q" width="356" alt="krish's Dev Card"/>
   </p>
 </details>
 </div>
