@@ -16,6 +16,7 @@ jobs:
       - name: Create Branch
         run: |
           git checkout -b ${{ env.PR_BRANCH }}
+          git push origin ${{ env.PR_BRANCH }}
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_TOKEN }} # required
