@@ -31,6 +31,6 @@ jobs:
           GH_TOKEN: ${{ github.token }}
       - name: Merge PR
         run: |
-          gh pr merge --squash --auto --delete-branch ${{ env.PR_BRANCH }}
+          gh pr merge --squash --admin --delete-branch ${{ env.PR_BRANCH }}
         env:
           GH_TOKEN: ${{ secrets.GH_OWNER_TOKEN }}
