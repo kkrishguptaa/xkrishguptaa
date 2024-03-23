@@ -19,21 +19,34 @@ Krish is a DevOps engineer, with a full-stack development background. He has man
 
 </div>
 <details>
-  <summary>📈 Show GitHub Stats</summary>
+  <summary>📈 ― Show GitHub Stats</summary>
   <br />
-  <p>
-    <img height=190 src="https://github-readme-stats.vercel.app/api?username=xkrishguptaa&show_icons=true&locale=en&count_private=true&hide_border=true&title_color=fefefe&text_color=fefefe&icon_color=fefefe&bg_color=7749C1&include_all_commits=true&border_radius=0" />
-    <img height=190 src="https://github-readme-streak-stats.herokuapp.com?user=xkrishguptaa&theme=dark&hide_border=true&border_radius=0&background=11121E&ring=7749C1&fire=7749C1&currStreakLabel=7749C1" />
+  <p align="center">
+    <img height=180 src="https://github-readme-stats.vercel.app/api?username=xkrishguptaa&show_icons=true&locale=en&count_private=true&hide_border=true&title_color=fefefe&text_color=fefefe&icon_color=fefefe&bg_color=7749C1&include_all_commits=true&border_radius=0" />
+    <img height=180 src="https://github-readme-streak-stats.herokuapp.com?user=xkrishguptaa&theme=dark&hide_border=true&border_radius=0&background=11121E&ring=7749C1&fire=7749C1&currStreakLabel=7749C1" />
   </p>
 </details>
 </div>
 
 <div>
 <details>
-  <summary>🏆 GitHub Profile Trophy</summary>
+  <summary>🏆 ― GitHub Profile Trophy</summary>
+  <br />
+  <p align="center">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=xkrishguptaa&row=1&no-frame=true&no-bg=true" />
+  </p>
+</details>
+</div>
+
+<div>
+<details>
+  <summary>🕐 ― What I'm doing? (Wakatime)</summary>
   <br />
   <p>
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=xkrishguptaa&row=1&no-frame=true&no-bg=true" />
+
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+    
   </p>
 </details>
 </div>
