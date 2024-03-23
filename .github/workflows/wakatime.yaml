@@ -1,4 +1,4 @@
-name: Waka Readme
+name: wakatime
 
 on:
   workflow_dispatch:
@@ -7,11 +7,26 @@ on:
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    env:
+      PR_BRANCH: wakatime-${{ github.sha }}
+    name: wakatime
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_TOKEN }} # required
           TIME_RANGE: all_time # optional
           LANG_COUNT: 10 # optional
+          TARGET_BRANCH: ${{ env.PR_BRANCH }}
+          COMMIT_MESSAGE: "chore: update wakatime stats"
+      - name: Create PR
+        run: |
+          gh pr create --base main --head ${{ env.PR_BRANCH }} --title 'chore: update wakatime stats [skip-ci]' --body ""
+        env:
+          GH_TOKEN: ${{ github.token }}
+      - name: Merge PR
+        run: |
+          gh pr merge --squash --auto --delete-branch ${{ env.PR_BRANCH }}
+        env:
+          GH_TOKEN: ${{ secrets.GH_OWNER_TOKEN }}
