@@ -44,7 +44,7 @@ Krish is a DevOps engineer, with a full-stack development background. He has man
   <br />
   <p>
 
-  <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
 
 ```txt
 Other      4 hrs 37 mins   ████████████████████████░   96.33 %
@@ -76,4 +76,8 @@ Markdown   10 mins         █░░░░░░░░░░░░░░░░�
     <img src="https://api.daily.dev/devcards/v2/ss6WFJc85JAQGKNKiGWSL.png?type=default&r=42q" width="356" alt="krish's Dev Card"/>
   </p>
 </details>
+</div>
+
+<div align="right">
+<p><a href="https://tilde.club/~xkrishguptaa/"><img src="http://tilde.club/~zarate/tildeclub.gif" border="0" width="88" height="31" alt="Tilde Club Badge"></a></p>
 </div>
